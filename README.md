@@ -7,3 +7,4 @@ using python and tcod as stage one of my roguelike development path.  My goal is
 ## Complete So far
 * Part 0 Setup https://rogueliketutorials.com/tutorials/tcod/v2/part-0/
 * Part 1 Drawing the '@' and moving it around https://rogueliketutorials.com/tutorials/tcod/v2/part-1/
+* Part 2 The generic Entity, the render functions, and the map https://rogueliketutorials.com/tutorials/tcod/v2/part-2/
